@@ -1,10 +1,10 @@
  body {
-      font-family: 'Fondamento', Georgia, 'Times New Roman', serif, cursive;
+      font-family: 'Times New Roman', serif, cursive;
       align-content: center;      
       color: rgb(206, 247, 59);      
       font-size: 1.5em;
       font-weight: bold;
-      text-align:center;
+      text-align:left;
       vertical-align:center;
       line-height: 36px;  
  }
@@ -19,8 +19,6 @@
       width: 1024px;
       height: 768px;
       padding-top: 200px;      
-      background-image: url("../images/fortune_teller.png");
-      background-repeat: no-repeat;
     }
 
     .wrapper {
